@@ -1,4 +1,4 @@
-# 🎄 MBTI North Pole
+# MBTI AI agent
 
 **Analyze personalities, one chat at a time!**
 
